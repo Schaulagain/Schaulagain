@@ -10,8 +10,10 @@ Backend-focused software engineer with almost 4 years building production **Lara
 **Stack:** PHP · Laravel · Symfony · Livewire · JavaScript · jQuery · MySQL · PostgreSQL · Linux · Nginx · Apache · Docker · GitHub Actions
 
 **Featured:**
+- [laravel-nepal-payments](https://github.com/Schaulagain/laravel-nepal-payments): eSewa and Khalti payments in Laravel 13, with signature verification, idempotent processing, reconciliation, tests and CI
 - [portfolio](https://github.com/Schaulagain/portfolio): terminal-style portfolio with a dependency-free Node.js build, deployed via GitHub Actions → [sumanchaulagain.info.np](https://sumanchaulagain.info.np)
 - [my-homelab](https://github.com/Schaulagain/my-homelab): self-hosted services with Docker Compose, documented step by step
+- [SQLProject](https://github.com/Schaulagain/SQLProject): object-relational Oracle database with PL/SQL procedures, packages and triggers
 - [laravel-websocket](https://github.com/Schaulagain/laravel-websocket): real-time chat with Laravel and WebSockets
 - [Todo-App](https://github.com/Schaulagain/Todo-App): Laravel API with a Next.js front end
 
