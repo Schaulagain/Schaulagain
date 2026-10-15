@@ -6,7 +6,6 @@ Backend-focused software engineer with almost 4 years building production **Lara
 
 **Currently:**
 - 🖥️ Running a Docker homelab on an old laptop (Pi-hole, Jellyfin, Portainer, Tailscale): [my-homelab](https://github.com/Schaulagain/my-homelab)
-- 🦀 Learning Rust on the side
 
 **Stack:** PHP · Laravel · Symfony · Livewire · JavaScript · jQuery · MySQL · PostgreSQL · Linux · Nginx · Apache · Docker · GitHub Actions
 
