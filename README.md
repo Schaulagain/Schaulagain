@@ -6,8 +6,8 @@ I'm looking for remote work, and I'm open to relocating.
 
 Things worth a look:
 
-- [laravel-nepal-payments](https://github.com/Schaulagain/laravel-nepal-payments): eSewa and Khalti payments in Laravel 13. It checks signatures, never applies the same payment twice, and re-checks payments left pending. Has tests and CI.
-- [portfolio](https://github.com/Schaulagain/portfolio): my site at [sumanchaulagain.info.np](https://sumanchaulagain.info.np). It looks like a terminal and is built with a small Node script, no framework.
+- [laravel-nepal-payments](https://github.com/Schaulagain/laravel-nepal-payments): eSewa, Khalti and HBL card payments in Laravel 13. It checks signatures, never applies the same payment twice, and re-checks payments left pending. Has tests and CI.
+- [portfolio](https://github.com/Schaulagain/portfolio): my site at [sumanchaulagain.info.np](https://sumanchaulagain.info.np). It looks like a terminal and is built with a small Node script.
 - [my-homelab](https://github.com/Schaulagain/my-homelab): an old laptop running Pi-hole, Jellyfin and Portainer in Docker, reachable over Tailscale.
 - [SQLProject](https://github.com/Schaulagain/SQLProject): an Oracle database from university that uses object types, PL/SQL packages and triggers.
 - [laravel-websocket](https://github.com/Schaulagain/laravel-websocket): a chat app using Laravel broadcasting with a self-hosted WebSocket server.
