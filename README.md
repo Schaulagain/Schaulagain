@@ -14,9 +14,9 @@ Most of what's on this profile from 2025 onwards was built with AI coding agents
 
 | Project | What it is | Area |
 | --- | --- | --- |
-| [water-tank-controller](https://github.com/Schaulagain/water-tank-controller) | An ESP32 controller that fills the roof tank by itself and keeps the pump from running dry, with live levels on my phone. Simulated for now, with a beginner-friendly hardware guide | IoT, full stack |
+| [water-tank-controller](https://github.com/Schaulagain/water-tank-controller) | An ESP32 controller that fills the roof tank by itself and keeps the pump safe through power cuts, with live levels on my phone. Simulated for now, with a beginner-friendly hardware guide | IoT, full stack |
 | [my-homelab](https://github.com/Schaulagain/my-homelab) | An old laptop running Pi-hole, Jellyfin and Portainer in Docker, reached over Tailscale | Infrastructure |
-| [laravel-nepal-payments](https://github.com/Schaulagain/laravel-nepal-payments) | eSewa, Khalti and HBL card payments with signature checks, no double-charging and pending-payment re-checks | Backend |
+| [laravel-nepal-payments](https://github.com/Schaulagain/laravel-nepal-payments) | eSewa, Khalti and HBL card payments. A payment only counts once the gateway confirms the full amount, and each one is invoiced once | Backend |
 | [portfolio](https://github.com/Schaulagain/portfolio) | My site at [sumanchaulagain.info.np](https://sumanchaulagain.info.np), a terminal you can type into, built with a small Node script | Web |
 | [Emotion-Detector](https://github.com/Schaulagain/Emotion-Detector) | A webcam emotion classifier (Keras CNN, OpenCV) from when I started learning ML | Machine learning |
 | [SQLProject](https://github.com/Schaulagain/SQLProject) | An Oracle database using object types, PL/SQL packages and triggers | Databases |
